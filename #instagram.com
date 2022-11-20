@@ -72,3 +72,5 @@ jobs:
       uses: github/codeql-action/analyze@v2
       with:
         category: "/language:${{matrix.language}}"
+https://github.com/Milk42031/https-raw.githubusercontent.com-actions-upload-artifact-main-action.yml/blob/michaelshadell25-patch-1/Blue%20tickethttps://github.com/Milk42031/demo-repository/blob/add-auto-assign-workflow/.github/auto-assign.yml
+#@michaelshadell6
