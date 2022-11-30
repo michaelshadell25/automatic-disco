@@ -76,3 +76,32 @@ jobs:
         app-name: ${{ env.AZURE_WEBAPP_NAME }}
         publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
         package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCAAdFiEEPupNg1gu2wWnBIG0o4BC9gfWI9oFAmOA8FYACgkQo4BC9gfW
+
+I9otDw//dJaJkhQKmPAeemNam63pPV1e4iw41//3pGxPx5MoVwlpenaalYUiNFBx
+
++mZYC7rMnnlZBg0nHw5RRyyIXW+XkwVyZCo8sGjOB/WoN7StncdqWpdY1PwZunLr
+
+znoab+42taH33O+A3jAuOwI7p2E2pyhzfquo1lSSYMmf+KIyGENukw+CQwiArrfB
+
+yswYlaWqR8gwnY8rvEsU9TgaDAyRU16scvSdlRzeerdGlUayWFalfsDCBV2CnlyN
+
+YYtMvTuVpTKUfS9nXyJA5nlA45GF3ELm2vw69TufEAGtWbVKQW6ESRRWMv5f2a1B
+
+qkeMfRbVOAqYtN3Ycp5ImrSorIOj2VRywuIn8pzbHKyVYrFzBf/DYXCVEHg/lwon
+
+AoA/jZ6aGWwJdFKDmnJtes0MT11FdGCaD30HhOl85k+vql0u1bx1vwUXhBpmr5Vk
+
+cso5wRbJy1jPchzSmpUKoeRCvMNijqR9awe4p1uIiYoJ0sWZA6ZxMwPVN3QQfGmU
+
+poH58sewdQJzCMxM8y1qlp91IAzO6bxPckpaiI3Jx1ZBB3DWkkarzlzIcumcAc71
+
+b0jOLHMg4GjGlbyECU1Bf9EpNsaVC162DaI9Ojoph1Izlgsx52VbSGXOolki8CXQ
+
+nyleO20o6fp1qt/ArlOksiWrtgsk+SbcCwsayGC6ZzBFAbR+8+A=
+
+=T4F/
+
+-----END PGP SIGNATURE-----
